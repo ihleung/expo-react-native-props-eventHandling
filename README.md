@@ -9,4 +9,5 @@ npx create-expo-app -e with-router
 ```
 
 ## 📝 Notes
-# react-native-props-eventHandling
+# react-native
+# using ios simulator
