@@ -57,9 +57,9 @@ export default function App() {
   // An array of objects passed to the <PlayerList> component as a
   // prop called players. Each player object will render its own <Button>
   const players = [
-    { number: 34, name: "Auston Matthews" },
-    { number: 91, name: "John Tavares" },
-    { number: 16, name: "Mitch Marner" },
+    { number: 34, name: "Tarik Celik" },
+    { number: 91, name: "Tyler Latham" },
+    { number: 16, name: "David Beckham" },
   ];
 
   return <PlayerList players={players} />;
